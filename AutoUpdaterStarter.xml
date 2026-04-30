@@ -7,7 +7,7 @@
     <url>http://192.168.1.40/Downloads/Update.zip</url>
  
     <!--在changelog标记之间提供应用程序更改日志的URL。如果你不提供变更日志的URL，那么更新对话框将不会显示变更日志。-->
-    <changelog>http://192.168.1.40/Updates/UpdateLog.html</changelog>
+    <changelog>https://lazyhandev0717.github.io/WZHB/updatelog.html</changelog>
  
     <!--如果你不想让用户跳过这个版本，可以将其设置为true。这将忽略“稍后提醒”和“跳过”选项，并在更新对话框中隐藏“稍后提醒”和“跳过”按钮。-->
     <mandatory>false</mandatory>
