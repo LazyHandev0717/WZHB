@@ -1,14 +1,7 @@
-<?xml version='1.0' encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <!--在版本标记之间提供应用程序的最新版本。版本必须为X.X.X.X格式。-->
-    <version>3.0.0.1</version>
- 
-    <!--在url标签之间提供最新版本安装程序文件或zip文件的url。自动更新。NET下载这里提供的文件，并在用户按下Update按钮时安装它。-->
-    <url>https://lazyhandev0717.github.io/WZHB/updatelog.html</url>
- 
-    <!--在changelog标记之间提供应用程序更改日志的URL。如果你不提供变更日志的URL，那么更新对话框将不会显示变更日志。-->
-    <changelog>https://lazyhandev0717.github.io/WZHB/updatelog.html</changelog>
- 
-    <!--如果你不想让用户跳过这个版本，可以将其设置为true。这将忽略“稍后提醒”和“跳过”选项，并在更新对话框中隐藏“稍后提醒”和“跳过”按钮。-->
-    <mandatory>false</mandatory>
+  <version>3.1.0.0</version>
+  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+  <changelog>hhttps://lazyhandev0717.github.io/WZHB/updatelog.html</changelog>
+  <mandatory>false</mandatory>
 </item>
